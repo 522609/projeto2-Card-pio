@@ -6,6 +6,9 @@ h3{
     font-size: 10mm;
 
 }
+@media all and (max-width:992px){
+body{
+    overflow-x: hidden;
 h2{
     text-align: center;
     color: whitesmoke;
